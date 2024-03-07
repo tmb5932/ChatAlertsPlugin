@@ -1,0 +1,6 @@
+name: ChatAlertsPlugin
+version: '${project.version}'
+main: me.kwzii.chatalertsplugin.ChatAlertsPlugin
+api-version: '1.20'
+authors: [Kwzii]
+description: Plugin to send custom messages/alerts

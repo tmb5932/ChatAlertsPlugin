@@ -11,8 +11,6 @@ class ChatAlertsPlugin : JavaPlugin() {
     }
 
     private fun registerListener() {
-        // Test event that sends private message to the player with every jump
-//        server.pluginManager.registerEvents(PlayerJumpListener(), this)
 
         // Event that sends message when player gets in bed
         server.pluginManager.registerEvents(PlayerBedListener(), this)

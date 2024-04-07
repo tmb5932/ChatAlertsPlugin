@@ -2,4 +2,4 @@
 
 Minecraft plugin that sends messages and alerts to players based on actions.
 
-Made by Kwzii
+Made by Travis Brown
